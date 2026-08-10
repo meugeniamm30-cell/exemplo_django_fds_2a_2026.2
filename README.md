@@ -1,0 +1,1 @@
+# exemplo_django_fds_2a_2026.2
